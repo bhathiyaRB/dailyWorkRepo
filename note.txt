@@ -1,0 +1,13 @@
+
+
+
+
+2023.01.17
+working on te project
+task- get data according to user input in C# - input(start date -> end date) --> output(sart date to end date every mm-yyyy)
+
+2023.01.18
+task - filter data from database for some user input + interface + load to datagrid #done
+working on the project
+
+2023.01.19
